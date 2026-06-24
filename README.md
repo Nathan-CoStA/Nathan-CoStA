@@ -1,6 +1,8 @@
-<h1 align="center">Olá, eu sou Nathan 👋</h1>
+<h1 align="center">Olá, eu sou Nathan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/></h1>
 
-<h3 align="center">Estudante de Estatística (UFF) | Risk & Fraud  @ UOL</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Estudante+de+Estatística+(UFF);Aprendiz+de+Risk+%26+Fraud+%40+UOL;Interesse+em+ERM%2C+Risco+de+Mercado+%26+Crédito;Interesse+em+M%26A" alt="" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nathan-costa-/">
@@ -13,7 +15,7 @@
 ### 📊 Sobre mim
 
 - 🎓 Graduando em **Estatística** pela **UFF** (Universidade Federal Fluminense)
-- 💼 Atuo na área de **Risk & Fraud** na **UOL**
+- 💼 Atuo como **Aprendiz** na área de Risk & Fraud na **UOL**
 - 🔍 Foco em análise de dados, modelagem de risco e prevenção a fraudes
 - 🚀 Em constante desenvolvimento nas ferramentas **Python, R, Power BI e SQL**
 - 🎯 Interesse em seguir carreira nas áreas de:
@@ -27,12 +29,13 @@
 ### 🛠️ Stack & Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,mysql,postgres,git,vscode" />
+  </a>
+</p>
+<p align="left">
+  <img height="48" width="48" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" title="Power BI" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" alt="Excel" title="Excel" />
 </p>
 
 ---
