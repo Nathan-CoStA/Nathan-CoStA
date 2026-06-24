@@ -15,7 +15,7 @@
 ### 📊 Sobre mim
 
 - 🎓 Graduando em **Estatística** pela **UFF** (Universidade Federal Fluminense)
-- 💼 Atuo como **Aprendiz** na área de Risk & Fraud na **UOL**
+- 💼 Atuo  na área de Risk & Fraud na **UOL**
 - 🔍 Foco em análise de dados, modelagem de risco e prevenção a fraudes
 - 🚀 Em constante desenvolvimento nas ferramentas **Python, R, Power BI e SQL**
 - 🎯 Interesse em seguir carreira nas áreas de:
